@@ -1,0 +1,62 @@
+.auth-form {
+    width: 320px;
+    margin: auto;
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
+
+.title {
+    background-color: #006565;
+    padding: 10px;
+    color: #FDF6BD;
+    font-weight: 600;
+}
+
+.right-box {
+    float: right;
+}
+
+.form {
+    padding: 10px;
+    background-color: #FAFFC6;
+}
+
+.error-message {
+    padding: 5px;
+    background-color: rgb(255, 210, 196);
+}
+
+.message {
+    padding: 5px;
+    background-color: gold;
+}
+
+
+.top {
+    height: 25px;
+    background-color: #41ABE1;
+    color: cornsilk;
+    font-size: 1.2em;
+    font-weight: 600;
+    padding: 3px 23px 3px 3px;
+    text-align: right;
+}
+
+a.logout, a.logout:visited {
+    color: cornsilk;
+}
+
+a.logout:hover {
+    color: lightyellow;
+}
+
+.logout {
+    float: right;
+    margin-left: 25px;
+}
+
+.admin {
+    float: right;
+    margin-left: 25px;
+}
